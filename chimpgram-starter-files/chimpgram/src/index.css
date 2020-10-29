@@ -68,7 +68,7 @@ label:hover{
 /* progress bar styles */
 .progress-bar{
   height: 5px;
-  background: var(--primary);
+  background: #8e1ea1;
   margin-top: 20px;
 }
 
